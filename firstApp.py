@@ -1,1 +1,1 @@
-
+print('Committing is easy')
