@@ -1,8 +1,11 @@
+# Software name : Phone Directory #
+# Developed in 10/12/2023 #
+#------------------------------------#
 # This program written as part of satr.code plateform 
 # I wrote this program for training pourposes 
 # You are free to run,modify or alter any part of this program under your knowledge 
 # To run this program use your terminal i.e C:/python.exe phoneDic.py
-
+#------------------------------------#
 
 
 persons_dict={'Amal':'1111111111',
